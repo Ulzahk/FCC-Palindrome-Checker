@@ -1,6 +1,7 @@
 # FCC-Palindrome-Checker
 
 ### Objetive 🎯
+Build a Palindrome-Checker Webpage.
 
 ### User Requirements 📜
 
